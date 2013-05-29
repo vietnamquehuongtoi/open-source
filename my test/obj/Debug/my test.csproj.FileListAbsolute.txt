@@ -1,0 +1,5 @@
+D:\dotnet\onsoft\my test\bin\my test.dll
+D:\dotnet\onsoft\my test\bin\my test.pdb
+D:\dotnet\onsoft\my test\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet\onsoft\my test\obj\Debug\my test.dll
+D:\dotnet\onsoft\my test\obj\Debug\my test.pdb

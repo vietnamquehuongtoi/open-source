@@ -1,0 +1,5 @@
+D:\dotnet\onsoft\myWeb5\bin\myWeb5.dll
+D:\dotnet\onsoft\myWeb5\bin\myWeb5.pdb
+D:\dotnet\onsoft\myWeb5\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet\onsoft\myWeb5\obj\Debug\myWeb5.dll
+D:\dotnet\onsoft\myWeb5\obj\Debug\myWeb5.pdb

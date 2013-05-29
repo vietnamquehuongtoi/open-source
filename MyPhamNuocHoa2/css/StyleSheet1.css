@@ -1,0 +1,79 @@
+﻿body {font-family:arial,Helvetica,sans-serif;font-size:12px;margin:0 auto;width:1000px;}
+*{    margin:0;padding:0;}
+/*============== Me nu====================*/
+#menu{height:148px;background:url("/img/img_top_menu.png") no-repeat;font-weight:bold;font:arial;width:1000px}
+#cha{list-style-type:none;position:absolute;top:120px;width:1000px;height:30px;background-color:#FF5DDA;}
+li.menucha{float:left;padding:7px 20px; }
+#menu a{color:White;text-decoration:none;}
+#menu li:hover a{color:Orange;}
+    /*================Me nu con=============*/
+    .menucha{position:relative}
+    .menucon{position:absolute;width:100px;list-style-type:none;padding-top:10px;display:none}
+    .menucha:hover .menucon{display:block;}
+    .menucon li{background-color:transparent #FFE0F9;border-bottom:1px solid white;height:20px;font-weight:normal;color:#FF5DDA}
+    .menucon li:hover{background-color:#F4C5E8}
+/*===============Chu chay==========*/
+#chuchay{background-color:#FFE0F9;line-height:30px;}
+/*=========Noi dung ben trai=======*/
+#left{width:766px; float:left;}
+#left img{ margin-top:10px;}
+/*==========Catalog==========*/
+.one img{ margin-top:0px;border:1px solid red}
+#catalog{height:116px; background:#F4F4F4;width:756px;}
+#run{overflow:hidden}
+#chay_catalog{width:756px;height:116px;position:relative;}
+#chay_catalog div div {width:141px;height:86px;}
+#chay_catalog div {float:left;margin-left:20px;margin-top:5px;}
+/*===========Right==================*/
+#right{height:1000px;width:234px;float:right;}
+#menu_right {list-style-type:none;float:right;margin-top:10px}
+#menu_right li{width:234px;margin-bottom:2px;background-color:#FF5DDA}
+#menu_right li a{color:White;text-decoration:none;line-height:25px;padding-left:30px}
+/*===============gio hang==================*/
+.giohang_hotrotructuyen{margin-top:10px;color:white;float:right;border:1px solid #FF5DDA;width:232px;height:99px;}
+#head{height:29px;background-color:#FF5DDA;text-align:center;}
+#tong{font-weight:bold;font-size:12px;height:50px;text-align:center;color:Black;}
+.giohang_hotrotructuyen span{line-height:19px;}
+#label_tong{margin-top:25px;}
+/*===============Ho tro truc tuyen========*/
+#right h4{padding-top:7px;height:22px;color:White;background:#ff5dda;text-align:center;}
+#nhom1,#nhom2{width:90px;float:left;padding:5px;color:Black;margin-left:5px;}
+/*===============hom thu gop y=========*/
+.homthugopy{margin-top:10px;color:white;float:right;border:1px solid #FF5DDA;width:232px;height:225px;}
+/*===========tim kiem san pham==========*/
+#timkiemsanpham{margin-top:10px;color:white;float:right;border:1px solid #FF5DDA;width:232px;height:150px;}
+/*=============Tim kiem selection==========*/
+.selection,.input{margin:5px 5px;width:150px}
+/*============Dang ky nhan tin khuyen mai============*/
+#dangkynhantin{margin-top:10px;color:white;float:right;border:1px solid #FF5DDA;width:232px;height:170px;}
+#dangkynhantin div{margin:10px 10px;color:Black;}
+#dangkynhantin #hoten,#email{float:right}
+#dangkynhantin p{margin-top:15px;color:black}
+#dangkynhantin a:hover{color:Red}
+#dangkynhantin a{color:Black;background:#ff5dda;margin-left:60px;}
+/*============Nhà phân phối============*/
+#nhaphanphoi{margin-top:10px;color:white;float:right;border:1px solid #FF5DDA;width:232px;height:480px;}
+#nhaphanphoi img{margin-top:5px;border:1px solid #ff5dda;}
+#nhaphanphoi div{margin:10px;}
+/*================San pham moi=================*/
+.sanphammoi{width:800px;height:810px;margin-top:20px;}
+.sanphammoi .head{background:url("/img/bg-head-pro.jpg") no-repeat;height:25px}
+.s1{width:754px;height:780px;border:1px solid red}          
+.datmua{margin-left:25px;}
+.s1 p{margin-top:5px}
+.s1 div{text-align:center;width:220px;float:left;height:320px;margin-bottom:30px;margin-top:30px;margin-left:20px}
+.datmua div{float:left;width:70px;height:20px;margin-top:15px}
+.datmua div{background-color:#ff5dda;width:60px;margin-left:10px}
+.datmua a{text-decoration:none}
+.datmua a:hover {text-decoration:underline}
+/*============Ke net==============*/
+.lin1{border-right:1px solid #E3E3E3}
+div.line_ngang{width:200px;height:2px;border-top:1px solid #E3E3E3;margin:5px 20px}
+/*===============San pham phu==============*/
+.sanphamphu{width:760px;height:180px;background-color:#F4F4F4;margin-top:0px}
+.sanphamphu .sanpham{width:140px;height:190px;margin-left:10px;float:left}
+.sanphamphu img{width:140px}
+.sanphamphu div div{height:95px;overflow:hidden}
+.sanphamphu p a{color:#ff5dda;font-weight:bold}
+/*========footer======*/
+#footer{width:1000px;height:60px;background:url("/img/buttom.jpg") no-repeat;clear:both;padding:18px;text-align:center}

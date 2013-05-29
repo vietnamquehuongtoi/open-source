@@ -1,0 +1,5 @@
+D:\dotnet\onsoft\MyPhamNuocHoa2\bin\MyPhamNuocHoa2.dll
+D:\dotnet\onsoft\MyPhamNuocHoa2\bin\MyPhamNuocHoa2.pdb
+D:\dotnet\onsoft\MyPhamNuocHoa2\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet\onsoft\MyPhamNuocHoa2\obj\Debug\MyPhamNuocHoa2.dll
+D:\dotnet\onsoft\MyPhamNuocHoa2\obj\Debug\MyPhamNuocHoa2.pdb
